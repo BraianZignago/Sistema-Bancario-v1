@@ -1,4 +1,5 @@
 # Sistema bancario utilizando python 3
+## Na versão 2 foi implementado as funções e novas 
 
 ### Ferramentas
 
