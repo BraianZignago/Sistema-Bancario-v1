@@ -8,10 +8,10 @@
 
 ### Resultados
 #### Criação do usuario e conta. E o primero deposito
-![Alt text](./ejemplo1.png "Optional title")
+![Alt text](./img/ejemplo1.png "Optional title")
 #### Saque da conta do cliente e mostrando o extrato
-![Alt text](./ejemplo2.png "Optional title")
+![Alt text](./img/ejemplo2.png "Optional title")
 
 ## Certificação
-![Alt text](./certificado.png "Optional title")
+![Alt text](./img/certificado.png "Optional title")
 
