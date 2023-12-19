@@ -1,5 +1,5 @@
 # Sistema bancario utilizando python 3
-## Na versão 2 foi implementado as funções e novas 
+## Na nova actualização do projeto foi feita a implementação de usos de clases para criar o sistema bancario com mais funcionalidades e realista
 
 ### Ferramentas
 
@@ -7,7 +7,10 @@
 - Python 3
 
 ### Resultados
-![Alt text](./ejemplo.png "Optional title")
+#### Criação do usuario e conta. E o primero deposito
+![Alt text](./ejemplo1.png "Optional title")
+#### Saque da conta do cliente e mostrando o extrato
+![Alt text](./ejemplo2.png "Optional title")
 
 ## Certificação
 ![Alt text](./certificado.png "Optional title")
