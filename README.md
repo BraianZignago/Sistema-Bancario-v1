@@ -13,5 +13,5 @@
 ![Alt text](./img/ejemplo2.png "Optional title")
 
 ## Certificação
-![Alt text](./img/certificado.png "Optional title")
+![Alt text](./img/certificadoo.png "Optional title")
 
